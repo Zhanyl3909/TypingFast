@@ -1,1 +1,1 @@
-# TypingFast
+# Window Typing Application 
