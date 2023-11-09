@@ -26,3 +26,8 @@ SpeedTyper is not just a typing game; it's your personal journey to typing maste
 *Daily motivation:* Just as I found daily typing practice to be a source of motivation, **SpeedTyper** is crafted to provide you with the same daily dose of inspiration to type faster, better, and with more confidence.
 
 Join us on this typing adventure. Hope you enjoy it as much as I do!
+
+
+### Result
+
+![App Screenshot](/TypeType/src/AppView/Launch_Sree.png)
