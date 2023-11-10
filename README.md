@@ -1,6 +1,7 @@
 # Window Typing Application 
 **Title:** SpeedTyper -  Enhance Your Typing Skills
 
+
 **Description:**
 
 SpeedTyper is not just a typing game; it's your personal journey to typing mastery. Inspired by a passion for fast and accurate typing, this application is designed to make your typing practice not only effective but also exhilarating.
