@@ -32,8 +32,14 @@ Join us on this typing adventure. Hope you enjoy it as much as I do!
 ### Result
 
 ![App Screenshot](/TypeType/src/AppView/Start_Screen.png)
+## 
+
 ![App Screenshot](/TypeType/src/AppView/Start_Screen.png)
+
+## 
+
 ![App Screenshot](/TypeType/src/AppView/process_Screen.png)
 
+## 
 
 
